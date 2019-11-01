@@ -1,6 +1,14 @@
 # About
 
-This dataset contains 378 training images and 34 test images of Bangladeshi car registration plates.
+This dataset contains 345 image and label pairs of Bangladeshi car registration plates; 315 of the pairs are for training, and 30 of them are for testing.
+
+# Images
+
+Each image contains registration plate[s], most of them being embedded in a vehicle, especially a car.
+
+# Labels
+
+The labels here are essentially bounding boxes which define the rectangular space occupied by registration plates. Each label is defined as an XML document; containing the 2D coordinates of the top-left point of the bounding box, along with its width and height.
 
 # License
 
