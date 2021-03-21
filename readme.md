@@ -1,20 +1,26 @@
-# About
+# Car Registration Plate Dataset
+
+## Contributors
+- [Nahiyan Alamgir](https://github.com/nahiyan)
+- [Momena Akhter Shukhi](https://github.com/MomenaAkhter)
+
+## About
 
 This dataset contains 345 image and label pairs of Bangladeshi car registration plates; 315 of the pairs are for training, and 30 of them are for testing.
 
-# Images
+## Images
 
 Each image contains registration plate[s], most of them being embedded in a vehicle, especially a car.
 
-# Labels
+## Labels
 
 The labels here are essentially bounding boxes which define the rectangular space occupied by registration plates. Each label is defined as an XML document; containing the 2D coordinates of the top-left point of the bounding box, along with its width and height.
 
-# License
+## License
 
 [GNU GPL V3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-# Sources
+## Sources
 
 - [https://www.facebook.com/pg/CtgModCars](https://www.facebook.com/pg/CtgModCars)
 - [https://www.facebook.com/Bangladesh-Car-Accessories-288172788042126
