@@ -1,9 +1,5 @@
 # Car Registration Plate Dataset
 
-## Contributors
-- [Nahiyan Alamgir](https://github.com/nahiyan)
-- [Momena Akhter Shukhi](https://github.com/MomenaAkhter)
-
 ## About
 
 This dataset contains 345 image and label pairs of Bangladeshi car registration plates; 315 of the pairs are for training, and 30 of them are for testing.
